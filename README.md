@@ -12,3 +12,11 @@ tion dataset. The experimental results demonstrate that our approach
 outperforms previous methods, validating our proposed design.
 
 ![image](6FD57612-FA81-4088-8DA6-DB997D9DBEAA.jpeg)
+
+# Requirements
+The code has been trained and tested with PyTorch 1.9 (1.9.0a0+gitc91c4a0), Python 3.9, and Cuda 11.2.
+
+Other dependencies could be installed by running:
+```Shell
+pip install -r requirements.txt
+```
