@@ -11,4 +11,4 @@ and DAVIS-2017 are adopted as the training dataset and the valida-
 tion dataset. The experimental results demonstrate that our approach
 outperforms previous methods, validating our proposed design.
 
-![image](model.png)
+![image](6FD57612-FA81-4088-8DA6-DB997D9DBEAA.jpeg)
