@@ -10,3 +10,5 @@ utive frames at random to train our model. The dataset Youtube-VOS
 and DAVIS-2017 are adopted as the training dataset and the valida-
 tion dataset. The experimental results demonstrate that our approach
 outperforms previous methods, validating our proposed design.
+
+![image](model.png)
