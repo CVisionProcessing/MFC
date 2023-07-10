@@ -20,3 +20,12 @@ Other dependencies could be installed by running:
 ```Shell
 pip install -r requirements.txt
 ```
+
+# Use  
+Training：  
+--------
+sh train.sh  
+
+Evaluation:  
+--------
+sh test_davis.sh  
